@@ -19,4 +19,8 @@ Write Me A Story
 - Girl _very unsubtly_ flirts with Boy
 	- once her belly is flat _(meaning Girl has completely digested a whole person, with Boy's help')_, she asks him out on a date
 ## Notes
-- Girl is _maybe_ a sadist
+- Girl
+    - sadistic
+    - beautiful
+        - _very beautiful_
+    - seductive
