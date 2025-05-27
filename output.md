@@ -23,4 +23,6 @@ Write Me A Story
     - sadistic
     - beautiful
         - _very beautiful_
+        - curvy
+        - shapely
     - seductive
