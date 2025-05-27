@@ -32,7 +32,7 @@ mdRender = mdRender
 	.replace(/&lt;/g, "<")
 	.replace(/&#39;/g, "'")
 	.replace(/^# _"(Story)"_/gm, "# $1")
-	.replace(/<!--[\s\S]*-->/g, "")
+	.replace(/\s+<!--[\s\S]*-->/g, "")
 	.replace(/^\s*/g, "")
 	.replace(/\s*$/g, "");
 // Write final render
