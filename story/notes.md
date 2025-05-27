@@ -2,4 +2,6 @@
     - sadistic
     - beautiful
         - _very beautiful_
+        - curvy
+        - shapely
     - seductive
