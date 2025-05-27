@@ -1,0 +1,15 @@
+{
+	"characters": {
+		"pred": {
+			"name": "Girl",
+			"species": "Pred"
+		},
+		"prey": {
+			"name": "Boy",
+			"species": "Human"
+		}
+	},
+	"story": {
+		"title": "Timing Is Everything"
+	}
+}
