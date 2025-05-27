@@ -16,7 +16,7 @@ Write Me A Story
 > If you come rub my belly until it's flat,
 > I __won't__ eat you up
 > _like the snack we both know you are_~
-- Girl unsubtly flirts with Boy
+- Girl _very unsubtly_ flirts with Boy
 	- once her belly is flat _(meaning Girl has completely digested a whole person, with Boy's help')_, she asks him out on a date
 ## Notes
 - Girl is _maybe_ a sadist
