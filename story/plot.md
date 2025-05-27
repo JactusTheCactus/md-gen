@@ -1,5 +1,5 @@
 - {{characters.prey.name}} stumbles across {{characters.pred.name}}
-- {{characters.pred.name}} has a large belly; obviously full of Prey
+- {{characters.pred.name}} has a large belly; very obviously full of __A Person__
 - she informs him that he's only safe because she's still digesting someone _else_
 > You're _actually_ pretty cute~\
 > You know what?
