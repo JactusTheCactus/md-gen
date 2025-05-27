@@ -1,1 +1,5 @@
-- {{characters.pred.name}} is _maybe_ a sadist
+- {{characters.pred.name}}
+    - sadistic
+    - beautiful
+        - _very beautiful_
+    - seductive
