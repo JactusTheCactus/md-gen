@@ -1,0 +1,1 @@
+- {{characters.pred.name}} is _maybe_ a sadist
